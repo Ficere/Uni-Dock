@@ -20,6 +20,8 @@ Main features are:
 
 ## Install
 
+Install Ambertools```conda install -yc conda-forge ambertools```
+
 Clone Uni-Dock repo, and under `unidock_tools` subdirectory run ```pip install .```
 
 Or ```pip install git+https://github.com/dptech-corp/Uni-Dock.git#subdirectory=unidock_tools```
