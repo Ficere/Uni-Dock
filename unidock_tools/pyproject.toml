@@ -23,6 +23,7 @@ dependencies = [
     "numpy",
     "pandas",
     "pathos",
+    "OpenMM",
 ]
 
 license = { file = "LICENSE" }
